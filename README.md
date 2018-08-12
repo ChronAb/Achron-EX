@@ -2,7 +2,7 @@
 Achron, EX mod, Distribution files
 
 Instructions for installing the Achron, EX mod:
-1. Make or install a fresh copy of un-modified Achron v1.7.0.0. (Achron EX will make some parts of the Achron unplayable: in particular the campaign. So it is best to make a dedicated copy of the game just for the mod.)
+1. Make or install a fresh copy of un-modified Achron v1.7.0.0. (Achron EX will make some parts of the game unplayable: in particular the campaign. So it is best to make a dedicated copy of the game just for the mod.)
 2. Find the main directory for your new copy of Achron.
 3. (Optional) Rename the directory as Achron_EX (or whatever name you want).
 4. (Optional) If you got your copy of the game from Steam and you are using Windows, consider replacing Achron.exe with the Achron.exe file from this repository. This will let you play the mod without having to log into Steam.
@@ -20,11 +20,12 @@ Tips for playing Achron, EX mod:
 
 
 What’s new in Achron, EX:
+
 ** General:
 * Currently only Grekim and CESO are playable.
 * Combat takes place on a smaller, more tactical scale with rarely more than a dozen units per side in any battle, although there may be multiple battles in different locations going on at once.
-* Fog of War is much less important, as many units and buildings are visible in FoW. This makes scouting less vital.
-* The mod works best on small maps with plentiful alternate paths and choke points.
+* Fog of War is much less important, as most large units and buildings are visible in FoW. This makes scouting less vital.
+* The mod plays best on small maps with plentiful alternate paths and choke points.
 
 ** Economy:
 * QP is the only primary resource. It is mined from both red crates and blue crates; the former being efficient but exhaustible, and the latter being inexhaustible but rare and costly to prepare for mining.
