@@ -24,6 +24,7 @@ What’s new in Achron, EX:
 ** General:
 * Currently only Grekim and CESO are playable.
 * Combat takes place on a smaller, more tactical scale with rarely more than a dozen units per side in any battle, although there may be multiple battles in different locations going on at once.
+* Command hierarchies are no longer part of the game. You don't need them.
 * Fog of War is much less important, as most large units and buildings are visible in FoW. This makes scouting less vital.
 * The mod plays best on small maps with plentiful alternate paths and choke points.
 
